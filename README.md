@@ -16,8 +16,20 @@
 - **Styling**: CSS
 - **Build Tool**: Create React App
 
-## 📁 Project Structure
+  
+## **Installation & Setup 🛠️**
 
+
+Prerequisites
+Node.js (v16+)
+Git
+Steps
+
+**Clone the repository**
+
+git clone https://github.com/jatinhati/notes-app.git
+
+cd notes-app
 
 
 ### `npm start`
