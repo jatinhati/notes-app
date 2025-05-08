@@ -2,6 +2,8 @@
 
 **Notes App** is a simple and responsive note-taking application built with React. It allows users to create, view, and manage their personal notes efficiently.
 
+**Live Link:** https://notes-app-nu-livid.vercel.app/
+
 ## 🚀 Features
 
 - **Create Notes**: Easily add new notes with a title and content.
